@@ -20,17 +20,17 @@ Python 的解释器可以很简单的使用 C 或 C++ 语言实现的新函数�
 
 ---
 
-### 1. 吊你胃口
+### 1. [吊你胃口](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap01)
 
-### 2. 使用 Python 解释器
+### 2. [使用 Python 解释器](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/tree/master/chap02)
 
-- 2.1 调用 Python 解释器
+- 2.1 [调用 Python 解释器](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap02/part02-01.md)
 
-- 2.2 解释器及其环境
+- 2.2 [解释器及其环境](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap02/part02-02.md)
 
-### 3. Python 语言简介
-- 3.1 把 Python 当做计算器
-- 3.2 编程第一步
+### 3. [Python 语言简介](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/tree/master/chap03)
+- 3.1 [把 Python 当做计算器](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap03/part03-01.md)
+- 3.2 [编程第一步](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap03/part03-02.md)
 
 ### 4. 更多流程控制工具(判断和循环)
 - 4.1 if 语句
