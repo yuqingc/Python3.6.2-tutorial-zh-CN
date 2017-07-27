@@ -14,7 +14,7 @@ Python 的解释器可以很简单的使用 C 或 C++ 语言实现的新函数�
 
 标准对象和库的详细内容，请查看 [Python 标准库](https://docs.python.org/3/library/index.html#library-index)。[Python语言索引](https://docs.python.org/3/reference/index.html#reference-index) 提供了更多 Python 语言的官方解释。要想编写 C 或 C++ 的扩展，阅读 [扩展和嵌入Python解释器](https://docs.python.org/3/extending/index.html#extending-index) 和 [Python/C API 手册](https://docs.python.org/3/c-api/index.html#c-api-index)。还有一些涉及 Python 更深层次的书。
 
-这个教程并不是对于每个特性，或者每个常用的特性都面面俱到。它介绍了许多 Python 最重要的特性，而且还提供给你这个语言的偏好和风格。在你读过这个教程之后，你将可以阅读和编写 Python 的模块和程序，也可以为你将来学习更多各种各样的 Python 库做准备。[Python 标准库](https://docs.python.org/3/library/index.html#library-index)。
+这个教程并不是对于每个特性，或者每个常用的特性都面面俱到。它介绍了许多 Python 最重要的特性，而且还提供给你这个语言的偏好和风格。在你读过这个教程之后，你将可以阅读和编写 Python 的模块和程序，也可以为你将来学习更多各种各样的 [Python 标准库](https://docs.python.org/3/library/index.html#library-index)做准备。
 
 [术语表](https://docs.python.org/3/glossary.html#glossary)同样也值得浏览一遍。
 
