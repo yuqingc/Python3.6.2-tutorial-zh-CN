@@ -36,7 +36,7 @@ Python 的解释器可以很简单的使用 C 或 C++ 语言实现的新函数�
 - 4.1 if 语句
 - 4.2 for 语句
 - 4.3 range() 函数
-- 4.4 break, continue 语句、循环语句中的 else 从句
+- 4.4 break, continue 语句、循环语句中的 else 分句
 - 4.5 pass 语句
 - 4.6 函数的定义
 - 4.7 更多关于函数的定义
