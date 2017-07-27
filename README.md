@@ -32,12 +32,12 @@ Python 的解释器可以很简单的使用 C 或 C++ 语言实现的新函数�
 - 3.1 [把 Python 当做计算器](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap03/part03-01.md)
 - 3.2 [编程第一步](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap03/part03-02.md)
 
-### 4. 更多流程控制工具(判断和循环)
-- 4.1 if 语句
-- 4.2 for 语句
-- 4.3 range() 函数
-- 4.4 break, continue 语句、循环语句中的 else 分句
-- 4.5 pass 语句
+### [4. 更多流程控制工具(判断和循环)](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/tree/master/chap04)
+- [4.1 if 语句](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap04/part04-01.md)
+- [4.2 for 语句](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap04/part04-02.md)
+- [4.3 range() 函数](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap04/part04-03.md)
+- [4.4 break, continue 语句、循环语句中的 else 分句](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap04/part04-04.md)
+- [4.5 pass 语句](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap04/part04-05.md)
 - 4.6 函数的定义
 - 4.7 更多关于函数的定义
 - 4.8 插曲：编程风格
