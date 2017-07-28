@@ -1,5 +1,7 @@
 # Python3.6.2-tutorial-zh-CN
-Python 官方文档翻译 A Chinese translation of Python 3.6.2 Tutorial.
+Python 官方文档翻译
+
+A Chinese translation of Python 3.6.2 Tutorial.
 
 自己上班之余翻译的，持续更新中。我看了一下，网上没有特别好的3.6.2的中文文档，就自己翻译一下了。就当自己边翻译边学习了。希望和大家多多交流。
 
