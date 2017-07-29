@@ -43,3 +43,13 @@ Python 的解释器可以很简单的使用 C 或 C++ 语言实现的新函数�
 - [4.6 函数的定义](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap04/part04-06.md)
 - [4.7 更多关于函数的定义](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap04/part04-07.md)
 - [4.8 插曲: 编程风格](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap04/part04-08.md)
+
+### [5. 数据结构]()
+- 5.1 深入学习列表
+- 5.2 del 语句
+- 5.3 元组和序列
+- 5.4 集合
+- 5.5 字典
+- 5.6 循环技术
+- 5.7 条件判断
+- 5.8 序列与其他类型的比较
