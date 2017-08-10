@@ -56,9 +56,9 @@ Python 的解释器可以很简单的使用 C 或 C++ 语言实现的新函数�
 
 ### [6. 模块](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap06)
 - [6.1 模块的更多介绍](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap06/part06-01.md)
-- 6.2 标准模块
-- 6.3 dir() 函数
-- 6.4 包
+- [6.2 标准模块](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap06/part06-02.md)
+- [6.3 dir() 函数](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap06/part06-03.md)
+- [6.4 包](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap06/part06-04.md)
 
 ### [7. 输入和输出]()
 - 7.1 更复杂的输出格式
