@@ -61,7 +61,7 @@ Python 的解释器可以很简单的使用 C 或 C++ 语言实现的新函数�
 - [6.4 包](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap06/part06-04.md)
 
 ### [7. 输入和输出]()
-- 7.1 更复杂的输出格式
+- [7.1 更复杂的输出格式](https://github.com/yuqingc/Python3.6.2-tutorial-zh-CN/blob/master/chap07/part07-01.md)
 - 7.2 读写文件
 
 ### [8. 错误和异常]()
